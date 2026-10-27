@@ -1,0 +1,3 @@
+[workspace]
+members = ["programs/solana-pyth-price-feed-oracle"]
+resolver = "2"
